@@ -27,8 +27,7 @@
     animation-name: example;
     animation-duration: 4s;
 }
-  }
-  
+   
   div:hover {
     width: 300px;
     height: 300px;
